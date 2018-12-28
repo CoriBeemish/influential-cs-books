@@ -142,7 +142,9 @@ I expect this list to be varied and to cover a wide range of things.
 128. [Design Concepts in Programming Languages](https://www.amazon.co.uk/Design-Concepts-Programming-Languages-Turbak/dp/0262201755) by FA Turbak 
 129. [The Back of the Napkin](https://www.amazon.com/dp/1591843065) by Dan Roam.
 130. [Enterprise Patterns and MDA](http://www.informit.com/store/enterprise-patterns-and-mda-building-better-software-9780321112309?aid=3B419801-6640-4A1F-A653-6CD00295FCDD) By Jim Arlow and Ila Neustadt
-131. 
-
+131. [Applying UML and Patterns](https://www.amazon.com/Applying-UML-Patterns-Introduction-Object-Oriented/dp/0131489062) by Craig Larman
+132. [The Timeless Way of Building](https://www.amazon.com/Timeless-Way-Building-Christopher-Alexander/dp/0195024028) by Christopher Alexander
+133. [Data Access Patterns](https://www.amazon.com/Data-Access-Patterns-Interactions-Object-Oriented/dp/0321555627) by Clifton Nock
+134.
 
 
