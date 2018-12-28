@@ -1,14 +1,14 @@
 # Most influential books for programmers
 
-These are books considered most influential for programmers from this [StackOverflow thread](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read).
+These are books considered most influential for programmers from this [StackOverflow thread](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) in no particular order. Forked in December 2018. Adding more books from the rest of the StackOverflow thread and updating some of the links. 
 
-## Why on Github?
+## Original thread
 
-Cause SO is cathedral, Github is bazzar ;)
+What is the single most influential book every programmer should read?
 
-Long answer: I frequently visit above thread. Over the time, such an active thread is closed, links to book sites are removed and I have to copy/paste/search everytime I go there. I am afraid they might remove it entirely.
+If you could go back in time and tell yourself to read a specific book at the beginning of your career as a developer, which book would it be?
 
-So, the list is preserved here :)
+I expect this list to be varied and to cover a wide range of things.
 
 ## Influential Books List
 
@@ -59,7 +59,7 @@ So, the list is preserved here :)
 45. [Foundations of Programming](http://openmymind.net/FoundationsOfProgramming.pdf) by Karl Seguin (free PDF)
 46. [Computer Graphics: Principles and Practice in C (2nd Edition)](http://www.amazon.com/Computer-Graphics-Principles-Practice-Edition/dp/0201848406) by Foley, Dam, Feiner, Hughes
 47. [Thinking in Java](http://www.mindviewinc.com/Books/TIJ4/) by Bruce Eckel
-48. [The Elements of Computing Systems](http://www.nand2tetris.org/) by Noam Nisan and Shimon Schocken(free ebook)
+48. [The Elements of Computing Systems](http://www.nand2tetris.org/) by Noam Nisan and Shimon Schocken (Free Ebook)
 49. [Refactoring to Patterns](http://industriallogic.com/xp/refactoring/) by Joshua Kerievsky
 50. [Modern Operating Systems](http://www.cs.vu.nl/~ast/books/mos2/) by Andrew S. Tanenbaum
 51. [The Annotated Turing](http://www.theannotatedturing.com/) by Charles Petzold
@@ -90,7 +90,7 @@ So, the list is preserved here :)
 76. [The Productive Programmer](http://nealford.com/books/productiveprogrammer) by Neil Ford
 77. [The Art of Deception](http://www.amazon.com/exec/obidos/tg/detail/-/0764569597) by Kevin Mitnick
 78. [The Career Programmer: Guerilla Tactics for an Imperfect World](http://www.christopherduncan.com/thecareerprogrammer.aspx) by Christopher Duncan
-79. [Paradigms of Artificial Intelligence Programming: Case studies in Common Lisp](http://norvig.com/paip.html) by Peter Norvig (free ebook)
+79. [Paradigms of Artificial Intelligence Programming: Case studies in Common Lisp](https://github.com/norvig/paip-lisp) by Peter Norvig (Free Ebook)
 80. [Masters of Doom](http://www.amazon.com/Masters-Doom-Created-Transformed-Culture/dp/0812972155) by David Kushner
 81. [Pragmatic Unit Testing in C# with NUnit](http://pragprog.com/book/utc2/pragmatic-unit-testing-in-c-with-nunit) by Andy Hunt and Dave Thomas
 82. [How To Solve It](https://notendur.hi.is/hei2/teaching/Polya_HowToSolveIt.pdf) by George Polya (free PDF)
@@ -99,12 +99,50 @@ So, the list is preserved here :)
 85. [Introduction to Functional Programming](http://www.cs.ox.ac.uk/publications/publication2613-abstract.html) by Richard Bird
 86. [No Bugs!](http://www.amazon.com/No-Bugs-Delivering-Error-Free/dp/0201608901) by David Thielen
 87. [JUnit in Action](http://www.manning.com/tahchiev/) by Petar Tahchiev
+88. [Rework](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745) by Jason Freid and DHH
+89. [Discrete Mathematics For Computer Scientists](https://www.amazon.com/dp/0201360616) by J.K. Truss.
+90. [Systemantics: How Systems Work and Especially How They Fail](https://www.amazon.com/dp/0812906748/) by John Gall 
+91. [Hacker's Delight](https://www.amazon.com/dp/0201914654/) by Henry S. Warren Jr. 
+92. [Concepts, Techniques, and Models of Computer Programming](https://www.amazon.com/dp/0262220695/) by Peter Van Roy
+93. [Extreme Programming Explained: Embrace Change](https://www.amazon.com/dp/0201616416/) by Kent Beck. 
+94. [Types and Programming Languages](http://www.cis.upenn.edu/~bcpierce/tapl/index.html) by Benjamin C Pierce
+95. [How to Design Programs: An Introduction to Programming and Computing](https://www.amazon.com/dp/0262062186/)
+96. [Database System Concepts](https://www.amazon.com/dp/0073523321) by Abraham Silberschatz Professor, Henry F. Korth, and S. Sudarshan
+97. [The practice of programming]() by Brian W. Kernighan and Rob Pike
+98. [Programming from the Ground Up](http://savannah.spinellicreations.com/pgubook/ProgrammingGroundUp-1-0-booksize.pdf) by Jonathan Bartlett (Free PDF)
+99. [Purely Functional Data Structures](https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf) by Chris Okasaki (Free PDF)
+100. [The World is Flat](https://www.amazon.com/World-Flat-History-Twenty-first-Century/dp/0374292884) by Thomas Friedman.
+101. [The Innovator's Dilemma](https://books.google.com/books?id=lqKho8KWXmAC&dq=the+innovator%27s+dilemma) by Clayton M. Christensen
+102. [Crossing the Chasm](https://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0060517123) by Geoffrey A. Moore
+103. [Database Management Systems](http://pages.cs.wisc.edu/~dbbook/) by Raghu Ramakrishnan and Johannes Gehrke
+104. [Programming C#](http://shop.oreilly.com/product/9780596003098.do) By Jesse Liberty
+105. [Beginning iPhone Development](https://www.amazon.com/Beginning-iPhone-Development-Exploring-SDK/dp/1430216263) by Jeff LaMarche and David Mark
+106. [Learning Python](http://shop.oreilly.com/product/0636920028154.do) By Mark Lutz
+107. [Python Pocket Reference](http://shop.oreilly.com/product/0636920028338.do) By Mark Lutz
+108. [The New Turing Omnibus](https://www.amazon.com/New-Turing-Omnibus-Sixty-Six-Excursions/dp/0805071660) by A. K. Dewdney 
+109. [Object Oriented Analysis and Design with Applications](https://www.amazon.com/dp/020189551X/) by Brady Booch
+110. [A Discipline of Programming](https://www.amazon.com/dp/013215871X/) by by Edsger W. Dijkstra
+111. [Code Craft](https://www.amazon.com/dp/1593271190/) by Pete Goodliffe
+112. [C++ How to Program](https://www.amazon.com/dp/0136152503) by Paul J. Deitel
+113. [Agile Software Development: The Cooperative Game](https://www.amazon.com/dp/0321482751/) by Alistair Cockburn
+114. [The Elements of Programming Style](https://www.amazon.com/dp/0070342075/) by Brian W. Kernighan and P. J. Plauger
+115. [The TCP/IP Guide](https://nostarch.com/tcpip.htm) by Charles M. Kozierok
+116. [Computing Calamities](https://www.amazon.com/dp/0130828629) by Robert L. Glass
+117. [In Search of Stupidity](https://www.amazon.com/dp/1590597214/) by Merrill R. Chapman
+118. [Mastering Regular Expressions](http://shop.oreilly.com/product/9780596528126.do) by Jeffrey Friedl
+119. [UML Distilled](https://martinfowler.com/books/uml.html) by Martin Fowler
+120. [Debugging the Development Process](https://www.amazon.com/Debugging-Development-Process-Practical-Strategies/dp/1556156502) by Steve Maguire
+121. [The Art of Software Testing](https://www.amazon.com/dp/0471469122/) by Glen Myers.
+122. [Rapid Development](https://www.amazon.com/dp/1556159005) by Steve McConnell
+123. [Mr. Bunny's Big Cup o' Java](http://www.mrbunny.com/mbbcoj.html) by Carlton Egremont III
+124. [Software Project Survival Guide](https://www.amazon.com/Software-Project-Survival-Developer-Practices/dp/1572316217) by Steve McConnell
+125. [Software Tools](https://www.amazon.com/Software-Tools-Brian-W-Kernighan/dp/020103669X) by Brian W. Kernighan and P. J. Plauger
+126. [Facts and Fallacies of Software Engineering](https://www.amazon.com/Facts-Fallacies-Software-Engineering-Robert/dp/0321117425) by Robert L. Glass
+127. [Perfect Software: And Other Illusions about Testing](https://www.amazon.com/dp/0932633692) by Gerald M. Weinberg
+128. [Design Concepts in Programming Languages](https://www.amazon.co.uk/Design-Concepts-Programming-Languages-Turbak/dp/0262201755) by FA Turbak 
+129. [The Back of the Napkin](https://www.amazon.com/dp/1591843065) by Dan Roam.
+130. [Enterprise Patterns and MDA](http://www.informit.com/store/enterprise-patterns-and-mda-building-better-software-9780321112309?aid=3B419801-6640-4A1F-A653-6CD00295FCDD) By Jim Arlow and Ila Neustadt
+131. 
 
 
-## Original thread
 
-What is the single most influential book every programmer should read?
-
-If you could go back in time and tell yourself to read a specific book at the beginning of your career as a developer, which book would it be?
-
-I expect this list to be varied and to cover a wide range of things.
