@@ -145,6 +145,22 @@ I expect this list to be varied and to cover a wide range of things.
 131. [Applying UML and Patterns](https://www.amazon.com/Applying-UML-Patterns-Introduction-Object-Oriented/dp/0131489062) by Craig Larman
 132. [The Timeless Way of Building](https://www.amazon.com/Timeless-Way-Building-Christopher-Alexander/dp/0195024028) by Christopher Alexander
 133. [Data Access Patterns](https://www.amazon.com/Data-Access-Patterns-Interactions-Object-Oriented/dp/0321555627) by Clifton Nock
-134.
+134. [Dreaming in Code](https://www.amazon.com/dp/1400082471) by Scott Rosenberg
+135. [Beautiful Code](http://shop.oreilly.com/product/9780596510046.do) by Andy Oram and Greg Wilson
+136. [Programming Perl](http://shop.oreilly.com/product/9780596004927.do) by Tom Christiansen, Jon Orwant, Larry Wall, and Brian Foy
+137. [Lean Software Development](https://www.amazon.com/exec/obidos/ASIN/0321896904/poppendieckco-20) by Mary and Tom Poppendieck
+138. [Object-Oriented Software Construction](https://www.amazon.com/Object-Oriented-Software-Construction-Book-CD-ROM/dp/0136291554) by Bertrand Meyer
+139. [Enterprise Integration Patterns](https://www.amazon.com/dp/0321200683) by Gregor Hohpe and Bobby Woolf
+140. [Head First Design Patterns](https://www.amazon.com/dp/0596007124) by Eric Freeman, Bert Bates, Kathy Sierra, and Elisabeth Robson
+141. [Advanced Programming in the UNIX Environment](https://www.amazon.com/dp/0201433079) by W. Richard Stevens and Stephen A. Rago
+142. [Mastery: The Keys to Success and Long-Term Fulfillment](https://www.amazon.com/dp/0452267560) by by George Leonard
+143. [How to Think Like a Computer Scientist](http://www.greenteapress.com/thinkpython/thinkCSpy/thinkCSpy.pdf) by Allen Downey, Jeffrey Elkner, and Chris Meyers (Free PDF)
+144. [Code Reading: The Open Source Perspective](https://www.amazon.com/Code-Reading-Open-Source-Perspective/dp/0201799405) by Diomidis Spinellis 
+145. [The Art of Prolog](https://www.amazon.com/dp/0262193388/?tag=stackoverflow17-20) by Leon S. Sterling and Ehud Y. Shapiro
+146. [The Craft of Prolog](https://www.amazon.com/dp/0262512270/?tag=stackoverflow17-20) by by Richard O'Keefe
+147. [The Unix Programming Environment](https://www.amazon.com/Unix-Programming-Environment-Prentice-Hall-Software/dp/013937681X) by Kernighan and Pike
+148. [Coder to Developer](https://www.amazon.com/dp/078214327X/?tag=stackoverflow17-20) by Mike Gunderloy and Sybex 
+149. []()
+
 
 
