@@ -193,9 +193,9 @@ I expect this list to be varied and to cover a wide range of things."
 178. [Expert C# Business Objects](https://www.amazon.com/Expert-Business-Objects-Books-Professionals/dp/1590593448) by Rockford Lhotka
 179. [The Algorithm Design Manual](https://www.amazon.com/dp/1848000693/?tag=stackoverflow17-20) by Steven S Skiena
 180. [Programming Windows®](https://www.amazon.com/dp/157231995X/?tag=stackoverflow17-20) by Charles Petzold
-181. [The Visual Display of Quantitative Information]() by Edward Tufte
-182. [Envisioning Information]() by Edward Tufte
-183. [Visual Explanations]() by Edward Tufte
+181. [The Visual Display of Quantitative Information](https://www.amazon.com/Visual-Display-Quantitative-Information/dp/1930824130) by Edward Tufte
+182. [Envisioning Information](https://www.amazon.com/Envisioning-Information-Edward-R-Tufte/dp/0961392118) by Edward Tufte
+183. [Visual Explanations](https://www.amazon.com/Visual-Explanations-Quantities-Evidence-Narrative/dp/0961392126) by Edward Tufte
 184. [Algorithms: A Creative Approach](https://www.amazon.com/Introduction-Algorithms-Creative-Udi-Manber/dp/0201120372) by Udi Manber
 185. [Etudes for Programmers](https://www.amazon.com/Etudes-Programmers-Charles-Wetherell/dp/0132918072) by Charles Wetherell
 186. [More Programming Pearls](https://www.amazon.com/More-Programming-Pearls-Confessions-Coder/dp/0201118890) by Jon Bently
@@ -207,7 +207,7 @@ I expect this list to be varied and to cover a wide range of things."
 192. [Algorithms in C++](https://www.amazon.com/dp/0201510596/?tag=stackoverflow17-20) by Robert Sedgewick
 193. [Effective C#: 50 Specific Ways to Improve Your C#](https://www.amazon.com/dp/0321245660/?tag=stackoverflow17-20) by Bill Wagner
 194. [Software Engineering Economics](https://www.amazon.com/Software-Engineering-Economics-Barry-Boehm/dp/0138221227) by Barry Boehm
-195. [Computer Networks]() by Andrew S. Tanenbaum
+195. [Computer Networks]https://www.amazon.com/Computer-Networks-Tanenbaum-International-Economy/dp/9332518742() by Andrew S. Tanenbaum
 196. [The Art of Game Design: A Book of Lenses](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) by Jesse Schell
 197. [Mr. Bunny's Guide to ActiveX](http://www.mrbunny.com/mbgtax.html) by Carlton Egremont III
 198. [The Peter Norton Programmer's Guide to the IBM PC](https://www.amazon.com/Peter-Norton-Programmers-Guide-IBM/dp/0914845462) by Peter Norton
@@ -217,7 +217,7 @@ I expect this list to be varied and to cover a wide range of things."
 202. [Orbiting the Giant Hairball: A Corporate Fool's Guide to Surviving with Grace](https://www.amazon.com/dp/0670879835/?tag=stackoverflow17-20) by Gordon MacKenzie
 203. [Interpretation of Object-Oriented Programming Languages](https://www.amazon.co.uk/Interpretation-Object-oriented-Programming-Languages/dp/1852335475/ref=sr_1_1?ie=UTF8&s=books&qid=1221573489&sr=8-1) by Ian Craig
 204. [Professional Excel Development](https://www.amazon.com/Professional-Excel-Development-Definitive-Applications/dp/0321508793) by Rob Bovey, Dennis Wallentin, Stephen Bullen, and John Green
-205. [Structured Programming]() by Edsger Dijkstra
+205. [Structured Programming](https://dl.acm.org/citation.cfm?id=1243380) by Edsger Dijkstra
 206. [Managing Gigabytes](https://www.amazon.com/dp/1558605703/?tag=stackoverflow17-20) by Ian H. Witten, Alistair Moffat, and Timothy C. Bell
 207. [C# for Experienced Programmers](https://www.amazon.com/C-Experienced-Programmers-Deitel-Developer/dp/0130461334) by  Deitel and Deitel 
 208. [Beginning Visual C++](https://www.amazon.com/Ivor-Hortons-Beginning-Visual-2008-ebook/dp/B0015DWLKI) by Ivor Horton
