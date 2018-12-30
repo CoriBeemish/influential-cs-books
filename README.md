@@ -1,14 +1,15 @@
 # Most influential books for programmers
 
-These are books considered most influential for programmers from this [StackOverflow thread](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) in no particular order. Forked in December 2018. Adding more books from the rest of the StackOverflow thread and updating some of the links. 
+These are books considered most influential for programmers from this [StackOverflow thread](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) in no particular order. 
+Forked in December 2018. Adding more books from the rest of the StackOverflow thread and updating some of the links. Omitted some books for being too specific or too off-topic.
 
 ## Original thread
 
-What is the single most influential book every programmer should read?
+"What is the single most influential book every programmer should read?
 
 If you could go back in time and tell yourself to read a specific book at the beginning of your career as a developer, which book would it be?
 
-I expect this list to be varied and to cover a wide range of things.
+I expect this list to be varied and to cover a wide range of things."
 
 ## Influential Books List
 
@@ -52,8 +53,8 @@ I expect this list to be varied and to cover a wide range of things.
 38. [Software Estimation: Demystifying the Black Art](http://www.stevemcconnell.com/est.htm) by Steve McConnel
 39. [The Passionate Programmer](http://pragprog.com/book/cfcar2/the-passionate-programmer) by Chad Fowler
 40. [Hackers: Heroes of the Computer Revolution](http://www.gutenberg.org/ebooks/729) by  Steven Levy (free ebook)
-41. [Algorithms + Data Structures = Programs](http://www.ethoberon.ethz.ch/WirthPubl/AD.pdf) by Niklaus Wirth (free PDF)
-42. [Writing Solid Code](http://c2.com/cgi/wiki?WritingSolidCode) by Steve Maguire
+41. [Writing Solid Code](http://c2.com/cgi/wiki?WritingSolidCode) by Steve Maguire
+42. [Algorithms + Data Structures = Programs](http://www.ethoberon.ethz.ch/WirthPubl/AD.pdf) by Niklaus Wirth (free PDF)
 43. [JavaScript - The Good Parts](http://javascript.crockford.com/) by Douglas Crockford
 44. [Getting Real](https://gettingreal.37signals.com/) by 37 Signals (free PDF)
 45. [Foundations of Programming](http://openmymind.net/FoundationsOfProgramming.pdf) by Karl Seguin (free PDF)
@@ -160,7 +161,65 @@ I expect this list to be varied and to cover a wide range of things.
 146. [The Craft of Prolog](https://www.amazon.com/dp/0262512270/?tag=stackoverflow17-20) by by Richard O'Keefe
 147. [The Unix Programming Environment](https://www.amazon.com/Unix-Programming-Environment-Prentice-Hall-Software/dp/013937681X) by Kernighan and Pike
 148. [Coder to Developer](https://www.amazon.com/dp/078214327X/?tag=stackoverflow17-20) by Mike Gunderloy and Sybex 
-149. []()
-
-
-
+149. [Enough Rope to Shoot Yourself in the Foot](https://www.amazon.com/dp/0070296898/?tag=stackoverflow17-20) by Allen I. Holub
+150. [Smalltalk Best Practice Patterns](https://www.amazon.com/dp/013476904X/?tag=stackoverflow17-20) by Kent Beck
+151. [A Whole New Mind](https://www.amazon.com/Whole-New-Mind-Right-Brainers-Future/dp/1594481717) by Daniel Pink
+152. [Assembly Language Book for the IBM PC](https://www.amazon.com/dp/013662149X/?tag=stackoverflow17-20) by Peter Norton
+153. [Programming Windows with MFC](https://www.amazon.com/Programming-Windows-Second-Jeff-Prosise/dp/1572316950) by Jeff Prosise
+154. [The Third Manifesto](http://www.thethirdmanifesto.com/) by Hugh Darwen and C.J. Date
+155. [Zen of Code Optimization](https://www.amazon.com/Zen-Code-Optimization-Ultimate-Software/dp/1883577039) by Michael Abrash
+156. [Graphics Programming Black Book](http://www.jagregory.com/abrash-black-book/) by Michael Abrash (Free Ebook)
+157. [Software Factories: Assembling Applications with Patterns, Models, Frameworks, and Tools](https://www.amazon.com/dp/0471202843/?tag=stackoverflow17-20) by Jack Greenfield, Keith Short, Steve Cook, and Stuart Kent
+158. [Solid Code](https://www.amazon.com/dp/0735625921/?tag=stackoverflow17-20) by Donis Marshall and John Bruno
+159. [Expert C Programming - Deep C Secrets'](http://www.electroons.com/8051/ebooks/expert%20C%20programming.pdf) by Peter Van Der Linden (Free Ebook)
+160. [What Every Programmer Should Know About Memory](https://akkadia.org/drepper/cpumemory.pdf) by Ulrich Drepper (Free Ebook)
+161. [97 Things Every Programmer Should Know](https://www.amazon.com/dp/0596809484/?tag=stackoverflow17-20) By Kevlin Henney
+162. [In the Beginning...was the Command Line](https://www.amazon.com/Beginning-was-Command-Line-Neal-Stephenson/dp/0380815931) by Neal Stephenson
+163. [Beyond Code: Learn to Distinguish Yourself in 9 Simple Steps](http://rajeshsetty.com/resources/books/beyond-code/) By Rajesh Setty (Free Ebook)
+164. [Are Your Lights On?](https://www.amazon.com/dp/0932633161/?tag=stackoverflow17-20) by Donald C. Gause and Gerald M. Weinberg
+165. [Implementation Patterns](https://www.amazon.com/Implementation-Patterns-Kent-Beck/dp/0321413091) by Kent Beck.
+166. [XUnit Test Patterns](http://xunitpatterns.com/) by Gerard Meszaros
+167. [Code: And Other Laws Of Cyberspace](https://www.amazon.com/exec/obidos/ASIN/046503912X/harvardcyberconf/002-7823636-3881615) by Lawrence Lessig
+168. [Ruminations on C++](https://www.amazon.com/dp/0201423391/?tag=stackoverflow17-20) by Koenig and Moo
+169. [Learning C# 2005](http://shop.oreilly.com/product/9780596102098.do) by Jesse Liberty and Brian MacDonald 
+170. [Inside the C++ Object Model](https://www.amazon.com/Inside-Object-Model-Stanley-Lippman/dp/0201834545) by Stan Lippman
+171. [Literate Programming](http://www.literateprogramming.com/knuthweb.pdf) by Donald Knuth (Free Ebook)
+172. [Thinking in C++](https://www.amazon.com/Thinking-C-Bruce-Eckel/dp/0139177094) by Bruce Eckel
+173. [How to Think Like a Computer Scientist: Learning with Python 3](https://media.readthedocs.org/pdf/howtothink/latest/howtothink.pdf) by Peter Wentworth, Jeffrey Elkner, Allen B. Downey, and Chris Meyers (Free Ebook)
+174. [Agile Software Development with Scrum](https://www.amazon.com/dp/0130676349/?tag=stackoverflow17-20) by Ken Schwaber and Mike Beedle
+175. [The C++ Standard Library](https://www.amazon.com/Standard-Library-Tutorial-Reference-2nd/dp/0321623215) by 'Nicolai M. Josuttis
+176. [Mastering Turbo Assembler](https://www.amazon.com/dp/0672305267/?tag=stackoverflow17-20) by Tom Swan
+177. [Just for Fun](https://www.amazon.com/dp/0066620732/?tag=stackoverflow17-20) by Linus Torvalds
+178. [Expert C# Business Objects](https://www.amazon.com/Expert-Business-Objects-Books-Professionals/dp/1590593448) by Rockford Lhotka
+179. [The Algorithm Design Manual](https://www.amazon.com/dp/1848000693/?tag=stackoverflow17-20) by Steven S Skiena
+180. [Programming Windows®](https://www.amazon.com/dp/157231995X/?tag=stackoverflow17-20) by Charles Petzold
+181. [The Visual Display of Quantitative Information]() by Edward Tufte
+182. [Envisioning Information]() by Edward Tufte
+183. [Visual Explanations]() by Edward Tufte
+184. [Algorithms: A Creative Approach](https://www.amazon.com/Introduction-Algorithms-Creative-Udi-Manber/dp/0201120372) by Udi Manber
+185. [Etudes for Programmers](https://www.amazon.com/Etudes-Programmers-Charles-Wetherell/dp/0132918072) by Charles Wetherell
+186. [More Programming Pearls](https://www.amazon.com/More-Programming-Pearls-Confessions-Coder/dp/0201118890) by Jon Bently
+187. [Game Architecture and Design](https://www.amazon.com/dp/1576104257/?tag=stackoverflow17-20) by Andrew Rollings and Dave Morris
+188. [Professional JSP](https://www.amazon.com/dp/1861004958/?tag=stackoverflow17-20) by Simon Brown, Robert Burdick, Jayson Falkner, Ben Galbraith, Rod Johnson, Larry Kim, Casey Kochmer, Thor Kristmundsson, and Sing Li
+189. [Object-Oriented Design Heuristics ](https://www.amazon.com/dp/020163385X/?tag=stackoverflow17-20) by Arthur J. Riel
+190. [Structured Design](https://www.amazon.com/Structured-Design-Fundamentals-Discipline-Computer/dp/0138544719) by Yourdon Press and Larry L. Constantine
+191. [How to Solve It: A New Aspect of Mathematical Method](https://www.amazon.com/dp/069111966X/?tag=stackoverflow17-20) by G. Polya
+192. [Algorithms in C++](https://www.amazon.com/dp/0201510596/?tag=stackoverflow17-20) by Robert Sedgewick
+193. [Effective C#: 50 Specific Ways to Improve Your C#](https://www.amazon.com/dp/0321245660/?tag=stackoverflow17-20) by Bill Wagner
+194. [Software Engineering Economics](https://www.amazon.com/Software-Engineering-Economics-Barry-Boehm/dp/0138221227) by Barry Boehm
+195. [Computer Networks]() by Andrew S. Tanenbaum
+196. [The Art of Game Design: A Book of Lenses](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) by Jesse Schell
+197. [Mr. Bunny's Guide to ActiveX](http://www.mrbunny.com/mbgtax.html) by Carlton Egremont III
+198. [The Peter Norton Programmer's Guide to the IBM PC](https://www.amazon.com/Peter-Norton-Programmers-Guide-IBM/dp/0914845462) by Peter Norton
+199. [You.Next(): Move Your Software Development Career to the Leadership Track](https://www.amazon.com/dp/1439205590/?tag=stackoverflow17-20) by Michael C. Finley and Honza Fedák
+200. [Maverick!: The Success Story Behind the World's Most Unusual Workplace](https://www.amazon.co.uk/Maverick-Success-Behind-Unusual-Workplace/dp/0712678867/ref=sr_1_2?ie=UTF8&s=books&qid=1273132693&sr=8-2) by Ricardo Semler
+201. [SQL for Smarties](https://www.amazon.com/dp/1558605762/?tag=stackoverflow17-20) by Joe Celko
+202. [Orbiting the Giant Hairball: A Corporate Fool's Guide to Surviving with Grace](https://www.amazon.com/dp/0670879835/?tag=stackoverflow17-20) by Gordon MacKenzie
+203. [Interpretation of Object-Oriented Programming Languages](https://www.amazon.co.uk/Interpretation-Object-oriented-Programming-Languages/dp/1852335475/ref=sr_1_1?ie=UTF8&s=books&qid=1221573489&sr=8-1) by Ian Craig
+204. [Professional Excel Development](https://www.amazon.com/Professional-Excel-Development-Definitive-Applications/dp/0321508793) by Rob Bovey, Dennis Wallentin, Stephen Bullen, and John Green
+205. [Structured Programming]() by Edsger Dijkstra
+206. [Managing Gigabytes](https://www.amazon.com/dp/1558605703/?tag=stackoverflow17-20) by Ian H. Witten, Alistair Moffat, and Timothy C. Bell
+207. [C# for Experienced Programmers](https://www.amazon.com/C-Experienced-Programmers-Deitel-Developer/dp/0130461334) by  Deitel and Deitel 
+208. [Beginning Visual C++](https://www.amazon.com/Ivor-Hortons-Beginning-Visual-2008-ebook/dp/B0015DWLKI) by Ivor Horton
+209. [Beginning C# 3.0](https://www.amazon.com/dp/0470261293/?tag=stackoverflow17-20) by Jack Purdum
+210. [Object-Oriented Programming in Turbo C++](https://www.amazon.com/dp/1878739069/?tag=stackoverflow17-20) by Robert Lafore
